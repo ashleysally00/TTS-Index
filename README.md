@@ -141,7 +141,7 @@
 ### CMU Flite TTS
 
 - Submitted: N/A
-- Paper: https://www.cs.cmu.edu/~awb/Papers/ISCA01/flite/flite.html
+- Paper: https://www.cs.cmu.edu/~awb/papers/ISCA01/flite.pdf
 - Github: https://github.com/festvox/flite
 
 ### MaryTTS
